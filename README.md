@@ -11,13 +11,13 @@ Designed for people that don't know how to fix messages in the source-code of ot
 how to use? execute the command (from console) using the following format:   
 
 
-**structure:** 
+**structure:**<br />
 /proxiedmessage <player> <message>  
 
-**multi-line:** 
+**multi-line:** <br />
 /proxiedmessage <player> first-line|second-line  
 
-**color-codes:** 
+**color-codes:** <br />
 /proxiedmessage <player> &c&lhey There|&bLooking good!|lets be awesome   
 
 
