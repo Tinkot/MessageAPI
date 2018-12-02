@@ -14,10 +14,10 @@ how to use? execute the command (from console) using the following format:
 **structure:**
 /proxiedmessage <player> <message>  
 
-**multi-line: **
+**multi-line:**
 /proxiedmessage <player> first-line|second-line  
 
-**color-codes: **
+**color-codes:**
 /proxiedmessage <player> &c&lhey There|&bLooking good!|lets be awesome   
 
 
