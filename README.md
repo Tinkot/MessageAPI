@@ -19,4 +19,4 @@ how to use? execute the command (from console) using the following format:
 <br />
 <br />
 <br />
-~~if you're using this to fix a messages of another plugin than please make a suggestion at the resource page of that plugin so they can add it correctly, this plugin should only be used to fix a problem temporary~~
+~~please make a suggestion if you're using this to fix messages of another plugin at the resource page of that plugin so they can add it correctly, this plugin should only be used to fix a problem temporary~~
